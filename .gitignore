@@ -1,0 +1,24 @@
+# Django-related
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Static files
+/static/
+media/
+
+# Secret keys
+*.env
+
+# Database files
+*.sqlite3
+
+# IDE and editor files (optional, adjust based on your preference)
+.idea/
+.vscode/
+
+# Dependency directories (optional, adjust based on your preference)
+venv/
+env/
